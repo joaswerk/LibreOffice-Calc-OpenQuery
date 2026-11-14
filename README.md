@@ -1,4 +1,4 @@
-# OpenQuery for calc
+# OpenQuery for LibreOffice Calc
 Free, open-source data transformation pipeline for LibreOffice Calc, inspired by Power Query.
 This extension was written entirely by Claude (Anthropic) based on specifications
 and feedback from the maintainer (joaswerk). The maintainer cannot read the code
