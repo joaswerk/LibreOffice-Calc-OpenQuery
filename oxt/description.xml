@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:d="http://openoffice.org/extensions/description/2006">
+  <identifier value="org.joaswerk.abfrageeditor"/>
+  <version value="0.10.3"/>
+  <display-name>
+    <name lang="de">OpenQuery – Abfrage-Editor für Calc (Power-Query-Stil)</name>
+    <name lang="en">OpenQuery for Calc (Power Query style)</name>
+  </display-name>
+  <platform value="all"/>
+  <dependencies>
+    <d:OpenOffice.org-minimal-version value="4.1" d:name="OpenOffice 4.1"/>
+  </dependencies>
+</description>
